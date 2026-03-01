@@ -28,7 +28,6 @@ This project demonstrates:
 <p align="center">
   <img src="assets/original.jpg" width="45%" />
   <img src="assets/segmentation.jpg" width="45%" />
-    <img src="assets/segmentation1.jpg" width="45%" />
       <img src="assets/segmentation2.jpg" width="45%" />
         <img src="assets/segmentation3.jpg" width="45%" />
 
